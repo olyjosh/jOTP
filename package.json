@@ -1,0 +1,25 @@
+{
+  "name": "jotp",
+  "version": "0.0.1",
+  "description": "There is need to generate OTP that is the same in java and nodejs, swift, javascript among others",
+  "main": "jotp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olyjosh/jotp.git"
+  },
+  "keywords": [
+    "OTP", "TOTP", "One-Time Password", "Time Based One-Time Password"
+  ],
+  "author": "Joshua Aroke (olyjosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olyjosh/jotp/issues"
+  },
+  "homepage": "https://github.com/olyjosh/jotp#readme",
+  "dependencies": {
+    "convert-hex":"0.1.0"
+  }
+}
