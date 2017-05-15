@@ -1,5 +1,5 @@
 # jOTP
-An node module for generating TOTP base on implementation of [https://tools.ietf.org/html/rfc6238](IETF rfc6238). This will produce thesame OTP with other implemented languages here listed.
+A node module for generating TOTP base on implementation of [https://tools.ietf.org/html/rfc6238] (IETF rfc6238). This will produce thesame OTP with other implemented languages here listed.
 
 ##Usage
     install via npm
@@ -35,7 +35,7 @@ All issues and pull request should be submitted to [ng-mouse-sprite](https://git
 ### Joshua Aroke (Olyjosh)
 
 Implemetation of
-+ [https://tools.ietf.org/html/rfc6238](IETF rfc6238)
++ [https://tools.ietf.org/html/rfc6238] (IETF rfc6238)
 
 
 
